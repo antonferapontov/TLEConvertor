@@ -1,0 +1,14 @@
+C:\Users\Ferapontov\Documents\Visual Studio 2010\Projects\Conventor\TLE\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\TLEConventor.exe
+C:\Users\Ferapontov\Documents\Visual Studio 2010\Projects\Conventor\TLE\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\TLEConventor.pdb
+C:\Users\Ferapontov\Documents\Visual Studio 2010\Projects\Conventor\TLE\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Ferapontov\Documents\Visual Studio 2010\Projects\Conventor\TLE\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ferapontov\Documents\Visual Studio 2010\Projects\Conventor\TLE\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Ferapontov\Documents\Visual Studio 2010\Projects\Conventor\TLE\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\TLEConventor.exe
+C:\Users\Ferapontov\Documents\Visual Studio 2010\Projects\Conventor\TLE\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\TLEConventor.pdb
+C:\Users\Ferapontov\Documents\Visual Studio 2010\Projects\Conventor\TLE\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\TLEConventor.exe.manifest
+C:\Users\Ferapontov\Documents\Visual Studio 2010\Projects\Conventor\TLE\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\TLEConventor.application
+C:\Users\Ferapontov\Documents\Visual Studio 2010\Projects\Conventor\TLE\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\TLEConventor.TrustInfo.xml
+C:\Users\Ferapontov\Documents\Visual Studio 2010\Projects\Conventor\TLE\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\TLEConventor.exe.manifest
+C:\Users\Ferapontov\Documents\Visual Studio 2010\Projects\Conventor\TLE\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\TLEConventor.application
+C:\Users\Ferapontov\Documents\Visual Studio 2010\Projects\Conventor\TLE\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\TLEConventor.exe.config
+C:\Users\Ferapontov\Documents\Visual Studio 2010\Projects\Conventor\TLE\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
